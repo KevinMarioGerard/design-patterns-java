@@ -1,3 +1,3 @@
 rootProject.name = 'design-patterns-java'
 
-include 'singleton'
+include 'singleton', 'factory-object'
